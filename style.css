@@ -1,0 +1,43 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 260px;
+  padding: 20px;
+  background: #1e1e2f;
+  color: #f5f6fa;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+#platformName {
+  font-weight: bold;
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+.btn {
+  background: linear-gradient(90deg, #6a11cb, #2575fc);
+  border: none;
+  border-radius: 30px;
+  padding: 12px 25px;
+  font-size: 16px;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+  box-shadow: 0 4px 10px rgba(37,117,252,0.7);
+  transition: background 0.3s ease;
+}
+
+.btn:hover {
+  background: linear-gradient(90deg, #2575fc, #6a11cb);
+}
+
+.message {
+  margin-top: 15px;
+  color: #ff6b6b;
+  font-weight: 600;
+}
