@@ -26,13 +26,13 @@ DevFocus uses the Chrome `declarativeNetRequest` API to intercept and block requ
 
 By default, the extension:
 - ✅ ALLOWS: `https://codeforces.com`
-- ❌ BLOCKS: `youtube.com`, `netflix.com`, `instagram.com`, `chat.openai.com`, `bard.google.com`, `gemini.google.com`, `tiktok.com`, `facebook.com`, and many more.
+- ❌ BLOCKS: `netflix.com`, `instagram.com`, `chat.openai.com`, `bard.google.com`, `gemini.google.com`, `facebook.com`, and many more.
 
 ---
 
 ## 📥 Installation
 
 1. Download and extract `DevFocus` repository files.
-2. Open Chrome and go to chrome://extensions/
+2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select this folder
