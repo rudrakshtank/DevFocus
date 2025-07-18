@@ -36,3 +36,15 @@ By default, the extension:
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select this folder
+
+## 📁 Files Included
+
+| File | Description |
+|------|-------------|
+| `LICENSE` | Contains the license information for this extension. |
+| `background.js` | Runs in the background and tracks time spent on each website. |
+| `icon16.png`, `icon32.png`, `icon48.png`, `icon128.png` | Various icon sizes used for the extension (toolbar, store, etc.). |
+| `manifest.json` | The metadata and configuration file for the Chrome extension. |
+| `popup.html` | The HTML layout for the extension's popup UI. |
+| `popup.js` | Handles the logic and interaction within the popup window. |
+| `style.css` | Styles the popup interface to ensure a clean and minimal look. |
