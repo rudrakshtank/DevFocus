@@ -32,9 +32,7 @@ By default, the extension:
 
 ## 📥 Installation
 
-1. Save all the files of this repository:
-   ```bash
-   git clone https://github.com/yourusername/devfocus-extension.git
+1. Download and extract `DevFocus` repository files.
 2. Open Chrome and go to chrome://extensions/
 3. Enable "Developer mode"
 4. Click "Load unpacked" and select this folder
